@@ -4,3 +4,10 @@ Xiangyu Cheng Lab 2 README
 first_name,last_name,last_update to java class.
 
 2.I select the test scop,because it is only get been available for testing phase of maven and it's not gonna be packaged with my application.
+
+
+constraint 
+![image](https://github.com/chengxiangyu018/itmd4515-lab2-xcheng26/blob/master/ActorValidationTest.png)
+
+insert 
+![image](https://github.com/chengxiangyu018/itmd4515-lab2-xcheng26/blob/master/insert.png)
