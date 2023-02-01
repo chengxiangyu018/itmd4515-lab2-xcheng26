@@ -5,7 +5,10 @@ first_name,last_name,last_update to java class.
 
 2.I select the test scop,because it is only get been available for testing phase of maven and it's not gonna be packaged with my application.
 
-
+3.Maven is a project resource management tool that only manages resources and does not participate in the operation of projects.
+Without maven,if we run a project ,first we should to download all of the jar packages that been used and if one package depends on another package,we
+also should download other package.Then when dependency conflicts occur, we need to troubleshoot them one by one.
+Maven help us to manage the dependences of the jar packages,reduce redundancy of packages and unify development specifications and tools;
 constraint 
 ![image](https://github.com/chengxiangyu018/itmd4515-lab2-xcheng26/blob/master/ActorValidationTest.png)
 
