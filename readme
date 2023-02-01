@@ -1,0 +1,6 @@
+Xiangyu Cheng Lab 2 README
+
+1.I select the sakila database,and use the actor table to be a java POJO.I select all of the field that in actor table such as actor_id,
+first_name,last_name,last_update to java class.
+
+2.I select the test scop,because it is only get been available for testing phase of maven and it's not gonna be packaged with my application.
